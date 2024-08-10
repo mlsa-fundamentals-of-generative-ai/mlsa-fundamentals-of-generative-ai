@@ -27,7 +27,7 @@ In this Event, explore the way in which language models enable AI applications a
   </tr>
   <tr>
     <td>Description</td>
-    <td>In this Event, explore the way in which language models enable AI applications and services to generate original content based on natural language input. You also learn how generative AI enables the creation of copilots that can assist humans in creative tasks.</td>
+    <td>In this Event, explore how language models enable AI applications and services to generate original content based on natural language input. You also learn how generative AI enables the creation of copilots that can assist humans in creative tasks.</td>
   </tr>
   <tr>
     <td>Classification</td>
@@ -99,12 +99,12 @@ In this Event, explore the way in which language models enable AI applications a
   <tr>
     <td>Event URL</td>
     <td>
-        <a href="https://mvp.microsoft.com/en-US/events/35391">Event - MVP Website</a>
+        <a href="https://mvp.microsoft.com/en-US/account">Event - MVP Website</a>
     </td>
   </tr>
   <tr>
     <td>Reach</td>
-    <td>111</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Photos/Recording URL</td>
