@@ -1,6 +1,6 @@
 # Fundamentals of Generative AI
 
-In this Event, explore the way in which language models enable AI applications and services to generate original content based on natural language input. You also learn how generative AI enables the creation of copilots that can assist humans in creative tasks.
+In this event, explore how language models enable AI applications and services to generate original content based on natural language input. You also learn how generative AI enables the creation of copilots that can assist humans in creative tasks.
 
 <!-- #MSFTStudentAmbassadors #MLSA #Microsoft365 #MicrosoftLearn #Beginner #Microsoft365forStudents #NIBM   -->
 
@@ -12,7 +12,7 @@ In this Event, explore the way in which language models enable AI applications a
 <!-- [Event - MVP Website](https://mvp.microsoft.com/en-US/events/35391) target='_blank' -->
 
 ## Event Notes
-<!-- Download PDF - [01 - Build AI Solutions with Microsoft Technologies, 13.05.2024 (In-Person).pdf](https://stdntpartners-my.sharepoint.com/:b:/g/personal/shehal_herath_studentambassadors_com/EXBRcnOV1_FAi0oB-CNFNA4B-AMxgWT3iZa_-MJICIKJYw?e=BzMdjo)  -->
+Download PDF - [Fundamentals of Generative AI.pdf](https://stdntpartners-my.sharepoint.com/:b:/r/personal/chanaka_abeyrathne_studentambassadors_com/Documents/Fundamentals%20of%20Generative%20AI/Fundamentals%20of%20Generative%20AI.pdf?csf=1&web=1&e=jbh614)  
 
 ## Event Details
 
